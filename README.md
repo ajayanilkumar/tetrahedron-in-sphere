@@ -12,4 +12,4 @@ My solution in this project makes use of GLUT and openGL.
 - If you left-click and stop the object, and then press "s" on your keyboard, the object gets scaled in size.
 
 
-![Uploading object.gif…]()
+
