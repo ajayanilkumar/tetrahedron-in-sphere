@@ -11,5 +11,5 @@ My solution in this project makes use of GLUT and openGL.
 - If you left-click and stop the object, and then press "t" on your keyboard, the object translates to a random position inside the sphere.
 - If you left-click and stop the object, and then press "s" on your keyboard, the object gets scaled in size.
 
-
+![object](https://github.com/ajayanilkumar/tetrahedron-in-sphere/assets/79352659/a9cf32f4-3e7b-4165-a095-5343867f1f96)
 
